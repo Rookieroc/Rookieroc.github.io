@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## how to write some simple article like resume
+you can just do it by change the index.md file in github main.don't forget to commit changes!
+
+## how to make a more complex blog
+### using HTTPS for free
+#### using CNAME to point to your own GitHub Pages name
+1. add a analysis record
